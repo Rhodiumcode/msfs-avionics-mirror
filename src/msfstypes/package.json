@@ -1,12 +1,12 @@
 {
-  "name": "@microsoft/msfs-types",
+  "name": "@rhodiumcode/msfs-types",
   "version": "1.14.6",
   "description": "Base MSFS TS Types",
-  "main": "index.js",
+  "main": "",
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/msfs-avionics-mirror/"
+    "url": "https://github.com/Rhodiumcode/msfs-avionics-mirror/"
   },
   "author": "Asobo Studio / Working Title Simulations",
   "license": "MIT"

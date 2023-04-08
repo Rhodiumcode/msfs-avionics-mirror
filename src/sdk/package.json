@@ -1,6 +1,6 @@
 {
-  "name": "@microsoft/msfs-sdk",
-  "version": "0.4.0",
+  "name": "@rhodiumcode/msfs-sdk",
+  "version": "0.4.1",
   "description": "HTML and Typescript SDK for MSFS Coherent based instruments and aircraft development.",
   "main": "msfssdk.js",
   "typings": "msfssdk.d.ts",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/msfs-avionics-mirror/"
+    "url": "https://github.com/Rhodiumcode/msfs-avionics-mirror/"
   },
-  "author": "Working Title Simulations",
+  "author": "Working Title Simulations, Rhodiumcode",
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@types/node": "^18.11.18",
-    "@microsoft/msfs-types": "^1.14.6",
+    "@rhodiumcode/msfs-types": "file:../msfstypes",
     "rollup": "^2.79.1",
     "rollup-plugin-dts": "^4.2.3",
     "typescript": "4.5.5"

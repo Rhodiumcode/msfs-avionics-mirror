@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/simvar" />
+/// <reference types="@rhodiumcode/msfs-types/js/simvar" />
 
 import { EventBus, EventBusMetaEvents, GameStateProvider, IndexedEventType, PublishPacer, SimVarDefinition, SimVarValueType } from '../data';
 import { SimVarPublisher } from './BasePublishers';

@@ -1,4 +1,4 @@
-import { AdcEvents } from '../instruments/Adc';
+import { AdcEvents } from '../instruments/ADC';
 import { BasePublisher } from '../instruments/BasePublishers';
 import { Subscribable } from '../sub/Subscribable';
 import { ConsumerSubject } from './ConsumerSubject';

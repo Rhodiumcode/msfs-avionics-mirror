@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/simplane" />
+/// <reference types="@rhodiumcode/msfs-types/js/simplane" />
 
 import { EventBus } from '../data/EventBus';
 import { PublishPacer } from '../data/EventBusPacer';

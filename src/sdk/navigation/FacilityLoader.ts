@@ -1,5 +1,5 @@
-/// <reference types="@microsoft/msfs-types/js/common" />
-/// <reference types="@microsoft/msfs-types/js/simplane" />
+/// <reference types="@rhodiumcode/msfs-types/js/common" />
+/// <reference types="@rhodiumcode/msfs-types/js/simplane" />
 
 import { GeoPoint } from '../geo';
 import { BitFlags, UnitType } from '../math';

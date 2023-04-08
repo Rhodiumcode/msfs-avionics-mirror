@@ -1,5 +1,5 @@
-/// <reference types="@microsoft/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
-/// <reference types="@microsoft/msfs-types/pages/vcockpit/instruments/shared/baseinstrument" />
+/// <reference types="@rhodiumcode/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
+/// <reference types="@rhodiumcode/msfs-types/pages/vcockpit/instruments/shared/baseinstrument" />
 
 import { Warning, WarningType } from './Warning';
 

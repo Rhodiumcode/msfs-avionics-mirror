@@ -1,9 +1,0 @@
-.cdi-label {
-  font-size: 15px;
-  line-height: 18px;
-  text-align: center;
-}
-
-.cdi-label.green {
-  color: var(--gnsgreen);
-}

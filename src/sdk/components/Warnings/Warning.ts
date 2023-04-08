@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
+/// <reference types="@rhodiumcode/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
 import { CompositeLogicXMLHost } from '../../data/';
 
 /** The acceptable priority types for a given warning. */

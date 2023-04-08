@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/common" />
+/// <reference types="@rhodiumcode/msfs-types/js/common" />
 
 import { EventBus, Publisher } from '../data';
 import { NavMath } from '../geo/NavMath';

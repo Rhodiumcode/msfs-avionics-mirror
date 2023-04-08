@@ -2,7 +2,7 @@ import { EventBus } from '../data/EventBus';
 import { SetSubject } from '../sub/SetSubject';
 import { SubscribableSet } from '../sub/SubscribableSet';
 import { Subscription } from '../sub/Subscription';
-import { Tcas, TcasAlertLevel, TcasEvents, TcasIntruder } from './Tcas';
+import { Tcas, TcasAlertLevel, TcasEvents, TcasIntruder } from './TCAS';
 
 /**
  * A data provider for TCAS advisories.

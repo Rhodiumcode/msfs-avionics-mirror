@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/coherent/facilities" />
+/// <reference types="@rhodiumcode/msfs-types/coherent/facilities" />
 
 import { LatLonInterface } from './GeoInterfaces';
 import { NavMath } from './NavMath';

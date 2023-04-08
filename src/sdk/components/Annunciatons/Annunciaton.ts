@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
+/// <reference types="@rhodiumcode/msfs-types/pages/vcockpit/instruments/shared/utils/xmllogic" />
 
 import { UUID } from '../../utils';
 

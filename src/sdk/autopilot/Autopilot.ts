@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/coherent/apcontroller" />
+/// <reference types="@rhodiumcode/msfs-types/coherent/apcontroller" />
 
 import { ControlEvents, EventBus } from '../data';
 import { FlightPlanner } from '../flightplan';

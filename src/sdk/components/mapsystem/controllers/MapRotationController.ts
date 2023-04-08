@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/avionics" />
+/// <reference types="@rhodiumcode/msfs-types/js/avionics" />
 
 import { UnitType } from '../../../math';
 import { Subscription } from '../../../sub/Subscription';

@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/common" />
+/// <reference types="@rhodiumcode/msfs-types/js/common" />
 import { HandlerSubscription } from '../sub/HandlerSubscription';
 import { Subscription } from '../sub/Subscription';
 import { EventSubscriber } from './EventSubscriber';

@@ -1,3 +1,14 @@
+# Rhodiumcode MSFS SDK
+
+MIT licensed with restriction.
+
+## Changes:
+
+- Removed Garmin related SD
+- Use local type packag reference
+
+----
+
 # Project
 
 Welcome to the Microsoft Flight Simulator avionics source code mirror. At this time, this repository contains the source code for the Garmin G1000 NXi as well as the related Typescript/JSX avionics creation framework. Additional avionics sources may be mirrored on this repository at a later date.

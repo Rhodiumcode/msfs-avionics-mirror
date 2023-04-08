@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/simvar" />
+/// <reference types="@rhodiumcode/msfs-types/js/simvar" />
 
 import { EventBus, SimVarValueType } from '../../data';
 import { AdcEvents, GNSSEvents } from '../../instruments';

@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/simvar" />
+/// <reference types="@rhodiumcode/msfs-types/js/simvar" />
 
 import { ControlEvents } from '../data/ControlPublisher';
 import { EventBus, IndexedEventType } from '../data/EventBus';

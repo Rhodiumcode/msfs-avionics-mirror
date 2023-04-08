@@ -1,4 +1,4 @@
-/// <reference types="@microsoft/msfs-types/js/simplane" />
+/// <reference types="@rhodiumcode/msfs-types/js/simplane" />
 
 import { GeoCircle } from '../geo/GeoCircle';
 import { GeoPoint } from '../geo/GeoPoint';

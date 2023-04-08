@@ -8,7 +8,7 @@ import { FacilityWaypointCache, LodBoundary, LodBoundaryCache } from '../../navi
 import { Subject } from '../../sub/Subject';
 import { Subscribable } from '../../sub/Subscribable';
 import { MutableSubscribableSet, SubscribableSet } from '../../sub/SubscribableSet';
-import { Tcas, TcasIntruder } from '../../traffic/Tcas';
+import { Tcas, TcasIntruder } from '../../traffic/TCAS';
 import { ResourceModerator } from '../../utils/resource';
 import { FSComponent, VNode } from '../FSComponent';
 import { GenericAirspaceRenderManager } from '../map/GenericAirspaceRenderManager';

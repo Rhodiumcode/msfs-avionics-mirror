@@ -1,5 +1,5 @@
-/// <reference types="@microsoft/msfs-types/js/simvar" />
-/// <reference types="@microsoft/msfs-types/js/avionics" />
+/// <reference types="@rhodiumcode/msfs-types/js/simvar" />
+/// <reference types="@rhodiumcode/msfs-types/js/avionics" />
 import { ControlEvents } from '../data/ControlPublisher';
 import { EventBus } from '../data/EventBus';
 import { PublishPacer } from '../data/EventBusPacer';
